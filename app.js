@@ -1,3 +1,5 @@
+// PhantomJS CasperJS
+
 // Handlers
 const click = document.getElementById("downloadThisPage");
 const fizz = document.getElementById('fizzbuzz');
